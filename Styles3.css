@@ -1,0 +1,99 @@
+.layout {
+    width: 50px;
+    height: 80px;
+    background: black;
+    margin: 5px;
+}
+.one {
+    width: 115px;
+}
+.one,
+.two {
+    display: inline-block;
+}
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight{
+    margin-bottom: 15px;
+}
+.a,
+.b,
+.c {
+    display: inline-block;
+}
+.layout2 {
+    width: 180px;
+    height: 60px;
+    background: black;
+    margin: 5px;  
+}
+.ten {
+    width: 60px;
+    height: 70px;
+}
+.eleven {
+    width: 105px;
+    height: 70px;
+}
+.ten,
+.eleven {
+    display: inline-block;
+}
+.layout3 {
+    width: 180px;
+    height: 60px;
+    background: black;
+    margin: 5px;  
+}
+.ten {
+    width: 60px;
+ }
+.eleven {
+        width: 105px;
+}
+.layout4 {
+    width: 180px;
+    height: 60px;
+    background: black;
+    margin: 5px;
+}
+.thirteen {
+    width: 180px;
+    height: 60px;
+}
+.layout5 {
+    width: 180px;
+    height: 60px;
+    background: black;
+    margin: 5px;
+}
+.fourteen,
+.fifteen,
+.sixteen,
+.seventeen {
+    display: inline-block;
+    width: 35px;
+    height: 100px;
+}
+.layout6 {
+    width: 180px;
+    height: 60px;
+    background: black;
+    margin: 5px;
+}
+.eighteen {
+    width: 55px;
+    height: 90px;
+    display: inline-block;
+}
+.nineteen {
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+} 
+
+  
+
